@@ -33,4 +33,16 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
