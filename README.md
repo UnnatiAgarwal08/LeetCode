@@ -25,6 +25,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0102-binary-tree-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0102-binary-tree-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -95,4 +98,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
