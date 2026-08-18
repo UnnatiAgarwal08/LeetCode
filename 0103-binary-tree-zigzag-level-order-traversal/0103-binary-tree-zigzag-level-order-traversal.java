@@ -2,31 +2,43 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-
         List<List<Integer>> ans = new ArrayList<>();
 
         if (root == null)
             return ans;
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        Deque<TreeNode> dq = new ArrayDeque<>();
+        dq.addLast(root);
 
-        boolean LeftToRight = true;
+        boolean lr = true;
 
-        while (!q.isEmpty()) {
+        while (!dq.isEmpty()) {
+            int n = dq.size();
+            List<Integer> level = new ArrayList<>();
 
-            int l=q.size();
-            List<Integer> temp=new ArrayList<>();
+            for (int i = 0; i < n; i++) {
+                if (lr) {
+                    TreeNode node = dq.removeFirst();
+                    level.add(node.val);
 
-            for (int i=0;i<l;i++){
-                TreeNode node=q.poll();
-                if (LeftToRight)        temp.add(node.val);
-                else                    temp.add(0, node.val);
-                if (node.left!=null)    q.offer(node.left);
-                if (node.right!=null)   q.offer(node.right);
+                    if (node.left != null)
+                        dq.addLast(node.left);
+
+                    if (node.right != null)
+                        dq.addLast(node.right);
+                } else {
+                    TreeNode node = dq.removeLast();
+                    level.add(node.val);
+
+                    if (node.right != null)
+                        dq.addFirst(node.right);
+
+                    if (node.left != null)
+                        dq.addFirst(node.left);
+                }
             }
-            ans.add(temp);
-            LeftToRight = !LeftToRight;
+            ans.add(level);
+            lr = !lr;
         }
         return ans;
     }
