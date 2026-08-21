@@ -7,6 +7,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -120,4 +121,12 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
