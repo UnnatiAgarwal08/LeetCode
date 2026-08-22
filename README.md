@@ -56,6 +56,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
