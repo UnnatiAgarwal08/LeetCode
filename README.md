@@ -203,6 +203,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0328-odd-even-linked-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
