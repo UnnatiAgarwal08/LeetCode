@@ -7,6 +7,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -83,6 +84,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Newton's Method
