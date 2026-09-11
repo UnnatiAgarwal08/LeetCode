@@ -13,6 +13,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -29,6 +30,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -94,6 +97,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0033-search-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -209,6 +213,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -236,4 +241,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
