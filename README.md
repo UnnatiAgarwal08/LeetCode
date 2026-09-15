@@ -14,6 +14,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -103,6 +104,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Newton's Method
