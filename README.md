@@ -16,6 +16,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -223,6 +224,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -230,6 +232,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
