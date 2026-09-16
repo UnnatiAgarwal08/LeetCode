@@ -14,6 +14,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -254,6 +255,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
