@@ -45,6 +45,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -62,6 +63,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0102-binary-tree-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -77,6 +79,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -119,6 +122,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0100-same-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -241,6 +245,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
