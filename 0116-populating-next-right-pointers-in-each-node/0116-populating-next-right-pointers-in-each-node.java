@@ -4,28 +4,20 @@ class Solution {
     public Node connect(Node root) {
         if (root == null)
             return null;
-        Queue<Node> q=new LinkedList<>();
-        q.add(root);
-
-        while(!q.isEmpty())
+       Node leftMost=root;
+       while(leftMost.left!=null)
+       {
+        Node curr=leftMost;
+        while(curr!=null)
         {
-            int level=q.size();
-            Node prev=null;
+            curr.left.next=curr.right;
 
-             for(int i=0;i<level;i++)
-             {
-                Node curr=q.poll();
-                if(prev!= null)
-                  prev.next=curr;
-                
-                prev=curr;
-
-                if(curr.left!=null) q.add(curr.left);
-                if(curr.right!=null) q.add(curr.right);
-             }
-             prev.next=null;
+            if(curr.next!=null)
+                curr.right.next=curr.next.left;
+            curr=curr.next;
         }
-
-        return root;
+        leftMost=leftMost.left;
+       }
+       return root;
     }
 }
