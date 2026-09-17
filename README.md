@@ -270,4 +270,16 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
