@@ -54,6 +54,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0538-convert-bst-to-greater-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0538-convert-bst-to-greater-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0538-convert-bst-to-greater-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
