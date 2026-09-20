@@ -31,6 +31,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0005-longest-palindromic-substring](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -253,6 +255,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -293,4 +296,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
