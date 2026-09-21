@@ -214,6 +214,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0014-longest-common-prefix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -284,6 +285,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
