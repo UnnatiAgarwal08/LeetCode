@@ -33,6 +33,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0058-length-of-last-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
