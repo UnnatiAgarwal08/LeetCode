@@ -32,6 +32,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,12 +258,14 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -289,6 +292,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
