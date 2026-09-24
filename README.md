@@ -7,6 +7,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -29,6 +30,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -321,4 +323,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
