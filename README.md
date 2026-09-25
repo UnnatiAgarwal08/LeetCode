@@ -26,6 +26,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
