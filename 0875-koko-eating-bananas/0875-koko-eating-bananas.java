@@ -8,7 +8,7 @@ class Solution {
             high = Math.max(high, pile);
         }
 
-        while (low <= high) {
+        while (low <= high)  {
 
             int mid = low + (high - low) / 2;
 
