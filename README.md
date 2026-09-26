@@ -28,6 +28,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
