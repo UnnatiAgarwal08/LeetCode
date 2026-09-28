@@ -11,6 +11,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0014-longest-common-prefix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -343,4 +344,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
