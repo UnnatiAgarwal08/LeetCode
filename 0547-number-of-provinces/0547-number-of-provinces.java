@@ -1,3 +1,5 @@
+//dfs approach
+
 class Solution {
     void dfs(int city, int[][] isConnected, boolean[] visited){
         visited[city]=true;
