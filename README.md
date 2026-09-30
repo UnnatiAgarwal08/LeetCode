@@ -14,6 +14,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -46,6 +47,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -355,6 +357,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
