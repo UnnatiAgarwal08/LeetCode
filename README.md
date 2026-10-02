@@ -15,6 +15,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0037-sudoku-solver](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -42,6 +43,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0005-longest-palindromic-substring](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
@@ -171,6 +173,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0005-longest-palindromic-substring](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Memoization
@@ -318,6 +321,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -382,4 +386,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
