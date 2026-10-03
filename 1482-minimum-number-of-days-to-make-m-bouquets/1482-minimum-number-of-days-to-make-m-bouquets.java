@@ -28,21 +28,20 @@ class Solution {
         int bouquets = 0;
 
         for (int bloom : bloomDay) {
-            if (bloom <= day) {
+            if (bloom <= day)
+             {
                 flowers++;
-
-                if (flowers == k) {
+                if (flowers == k)
+                 {
                     bouquets++;
                     flowers = 0;
-
                     if (bouquets == m)
                         return true;
                 }
-            } else {
+            } 
+            else 
                 flowers = 0;
-            }
         }
-
         return false;
     }
 }
