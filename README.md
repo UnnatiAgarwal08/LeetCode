@@ -18,6 +18,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -384,6 +385,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0040-combination-sum-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
@@ -398,6 +400,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
