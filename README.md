@@ -129,6 +129,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -300,11 +301,13 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
