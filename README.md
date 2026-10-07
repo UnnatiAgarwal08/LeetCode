@@ -100,6 +100,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Binary Tree
@@ -179,6 +180,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Dynamic Programming
@@ -378,10 +380,12 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -418,5 +422,10 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
