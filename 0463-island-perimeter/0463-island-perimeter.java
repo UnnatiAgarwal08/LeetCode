@@ -1,22 +1,45 @@
+
 class Solution {
+    int n;
+    int m;
+    int peri = 0;
+
+    void dfs(int[][] grid, int i, int j) {
+        if (i < 0 || i >= m || j < 0 || j >= n) {
+            peri++;
+            return;
+        }
+
+        if (grid[i][j] == 0) {
+            peri++;
+            return;
+        }
+
+        if (grid[i][j] == -1)
+            return;
+
+        grid[i][j] = -1;
+
+        dfs(grid, i + 1, j);
+        dfs(grid, i - 1, j);
+        dfs(grid, i, j + 1);
+        dfs(grid, i, j - 1);
+    }
+
     public int islandPerimeter(int[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
-        int ans = 0;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {   int p=0;
-                if(grid[i][j]==1)
-                {
-                    if(i==n-1 || grid[i+1][j]==0) p++;
-                    if(i==0 || grid[i-1][j]==0) p++;
-                    if(j==0 || grid[i][j-1]==0) p++;
-                    if(j==m-1 || grid[i][j+1]==0) p++;
+        m = grid.length;
+        n = grid[0].length;
+        peri = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    dfs(grid, i, j);
+                    return peri;
                 }
-                ans=ans+p;
             }
         }
-        return ans;
+
+        return 0;
     }
 }
