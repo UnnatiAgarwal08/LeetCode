@@ -32,6 +32,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -63,6 +64,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -245,6 +248,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0059-spiral-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -326,6 +330,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
