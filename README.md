@@ -197,6 +197,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0058-length-of-last-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
@@ -406,6 +408,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
