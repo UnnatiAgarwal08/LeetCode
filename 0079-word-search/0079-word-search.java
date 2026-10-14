@@ -1,12 +1,9 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-
         int rows = board.length;
         int cols = board[0].length;
-
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-
                 if (board[i][j] == word.charAt(0)) {
                     if (dfs(board, word, i, j, 0)) {
                         return true;
@@ -14,10 +11,8 @@ class Solution {
                 }
             }
         }
-
         return false;
     }
-
     public boolean dfs(char[][] board, String word, int row, int col, int index) {
         if (index == word.length()) {
             return true;
