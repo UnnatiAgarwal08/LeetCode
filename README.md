@@ -26,6 +26,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -358,6 +359,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -421,6 +423,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
