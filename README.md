@@ -46,6 +46,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -116,6 +117,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
