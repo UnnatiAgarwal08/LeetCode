@@ -16,6 +16,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0037-sudoku-solver](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0047-permutations-ii/) | Medium |
@@ -334,6 +335,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
