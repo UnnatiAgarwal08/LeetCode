@@ -49,6 +49,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -121,6 +122,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
