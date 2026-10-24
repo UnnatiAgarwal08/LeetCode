@@ -162,6 +162,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2409-count-days-spent-together](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2409-count-days-spent-together](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
