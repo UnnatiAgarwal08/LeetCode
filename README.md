@@ -41,6 +41,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -180,6 +181,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
