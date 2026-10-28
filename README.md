@@ -33,6 +33,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -180,6 +181,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0074-search-a-2d-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
