@@ -61,6 +61,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +305,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
