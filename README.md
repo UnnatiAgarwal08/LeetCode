@@ -41,6 +41,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -75,6 +76,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -193,6 +195,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0209-minimum-size-subarray-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -414,6 +417,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0090-subsets-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Stack
@@ -444,6 +448,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -525,4 +530,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
