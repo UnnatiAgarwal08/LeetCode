@@ -65,6 +65,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [1539-kth-missing-positive-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -375,6 +376,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
