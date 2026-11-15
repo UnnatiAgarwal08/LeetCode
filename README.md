@@ -63,6 +63,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -98,6 +99,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -326,6 +329,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Simulation
@@ -415,6 +419,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0023-merge-k-sorted-lists](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
