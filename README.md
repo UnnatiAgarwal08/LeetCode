@@ -202,6 +202,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0240-search-a-2d-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0275-h-index-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -548,4 +549,8 @@ It will now contain all my leetcode submissions that i will do moving forward
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
