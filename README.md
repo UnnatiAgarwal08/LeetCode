@@ -49,6 +49,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -138,6 +139,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0226-invert-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0542-01-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -267,6 +269,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0070-climbing-stairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0542-01-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0240-search-a-2d-matrix-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
