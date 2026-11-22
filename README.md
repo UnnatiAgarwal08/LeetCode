@@ -60,6 +60,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0812-largest-triangle-area](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0888-fair-candy-swap](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0994-rotting-oranges](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -105,6 +106,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0475-heaters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0561-array-partition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0888-fair-candy-swap](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0704-binary-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0888-fair-candy-swap](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -412,6 +415,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0888-fair-candy-swap](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
