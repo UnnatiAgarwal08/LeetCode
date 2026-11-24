@@ -154,6 +154,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -271,6 +272,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0617-merge-two-binary-trees](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0733-flood-fill](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -532,6 +534,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0207-course-schedule](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Backtracking
@@ -606,8 +609,17 @@ It will now contain all my leetcode submissions that i will do moving forward
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
