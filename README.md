@@ -48,6 +48,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0414-third-maximum-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0493-reverse-pairs](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -108,6 +109,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0475-heaters](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0561-array-partition](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0888-fair-candy-swap](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
