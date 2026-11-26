@@ -102,6 +102,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0056-merge-intervals](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -390,6 +391,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0071-simplify-path](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0647-palindromic-substrings](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -424,6 +426,7 @@ It will now contain all my leetcode submissions that i will do moving forward
 | [0041-first-missing-positive](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UnnatiAgarwal08/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
